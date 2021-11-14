@@ -1,0 +1,26 @@
+::-webkit-scrollbar {
+    width: 0px;
+    /* for vertical scrollbars */
+    height: 3px;
+    /* for horizontal scrollbars */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgba(117, 117, 117, 0.5);
+  }
+
+
+.sc-dlVxhl.keatGV{
+  height: 92.9% !important;
+}
+
+.bg-dark-new{
+    background-color: #2d3237;
+}
+.bg-dark-new:focus{
+    background-color: #2d3237;
+}
